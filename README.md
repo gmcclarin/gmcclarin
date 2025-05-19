@@ -34,7 +34,4 @@
 
   ## GITHUB STATS
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmcclarin&" alt="gmcclarin" /></p>
-
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=gmcclarin&theme=discord&title=Repositories,Commits,Followers)](https://github.com/ryo-ma/github-profile-trophy)
   
