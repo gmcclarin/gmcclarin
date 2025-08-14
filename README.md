@@ -14,7 +14,7 @@
 
 - ⚡ Ask me about **React, Web scraping**
 
-- ⚡ Email me @ **grace.nieboer@outlook.com**
+- ⚡ Email me @ **grace.mcclarin@outlook.com**
 
 - ⚡ [RESUME](https://docs.google.com/document/d/11j7BKzqYw5y554miHNBvvi2kuwA7iyPftVtoJ9Hyh7o/edit?usp=sharing)
 
