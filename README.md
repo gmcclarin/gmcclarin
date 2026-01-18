@@ -35,4 +35,6 @@
 
   ## GITHUB STATS
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmcclarin&" alt="gmcclarin" /></p>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=gmcclarin)
+
   
