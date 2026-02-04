@@ -10,9 +10,7 @@
   
 - ⚡ FOR FUN - working on a few different online presence projects for friends & clients 
 
-- ⚡ Currently learning: **C#** && pursuing the next **AWS** certification
-
-- ⚡ Ask me about **React, Web scraping**
+- ⚡ Currently learning: **Agentic AI** && pursuing the next **AWS** certification
 
 - ⚡ Email me @ **grace.mcclarin@outlook.com**
 
